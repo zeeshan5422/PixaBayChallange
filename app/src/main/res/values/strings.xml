@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pixabay Challenge</string>
+
+    <string name="un_authorize_error">You are not allowed to view these content</string>
+    <string name="empty_data">No Record Found, please try search again with some other keyword</string>
+    <string name="network_error">Network Error Occurred, please try again</string>
+
+    <string name="unhandled_error_occurred">Unknown Error Occurred, please contact admin support</string>
+
+</resources>
